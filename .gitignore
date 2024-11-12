@@ -1,2 +1,6 @@
 *.png
-receipts/
+!final.png
+
+*.csv
+
+log_*
